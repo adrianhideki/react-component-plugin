@@ -19,6 +19,6 @@ VendaBuilder.addConfig({
   id: "magalu",
   value: "mag",
   path: "./Venda/Magalu",
-});
+}, true);
 
 export default VendaBuilder;
